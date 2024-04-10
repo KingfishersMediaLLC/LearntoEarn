@@ -17,7 +17,6 @@ As we continue our infrastructure buildout we are evaluating tokenizing educatio
 # Visuals of Learn to Earn Learning Center
 ![Learning Center Main](https://hackmd.io/_uploads/rJ2IQtVxA.png)
 ![Live Calendar](https://hackmd.io/_uploads/Hk0PQF4eR.png)
-![$EARTH Reward](https://hackmd.io/_uploads/SyJtXKEe0.png)
 ![EAS Creds p1](https://hackmd.io/_uploads/rkdFXFNlA.png)
 ![EAS Creds p2](https://hackmd.io/_uploads/Hklc7tVxR.png)
 
